@@ -1,5 +1,3 @@
-const ingredients = require("./ingredients")
-
 module.exports = [
   {
     name: 'fried egg',

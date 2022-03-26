@@ -1,6 +1,6 @@
 const IngredientStorage = require('./IngredientStorage')
-const recipe_list = require('./src/recipe_list')
-const ingredients = require('./src/ingredients')
+const recipe_list = require('./data/recipe_list')
+const ingredients = require('./data/ingredients')
 
 
 const main = () => {
